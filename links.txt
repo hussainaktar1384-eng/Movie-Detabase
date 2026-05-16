@@ -1,1 +1,3 @@
 # Gofile Links Data
+
+Us "Consoles" page par jakar is error wali kaali screen ko laal 'X' daba kar band (Kill) kar dijiye.
